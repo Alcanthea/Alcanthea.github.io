@@ -34,6 +34,11 @@ button {
   border: 3px solid rgb(196, 175, 222);
   border-radius: 5px;
   border-top-left-radius: 10px;
+  
+}
+
+button:active {
+  background-color: rgb(196, 175, 222) ;
 }
 
 #image-gallery {
